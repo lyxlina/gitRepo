@@ -1,2 +1,5 @@
 test git init
+<<<<<<< HEAD
 modify for gitk_test
+=======
+>>>>>>> 83d662b... test git init
