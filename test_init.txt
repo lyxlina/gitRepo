@@ -1,1 +1,2 @@
 test git init
+modify for gitk_test
