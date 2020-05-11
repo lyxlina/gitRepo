@@ -1,1 +1,1 @@
-i like java
+i like php1
