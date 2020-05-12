@@ -1,8 +1,3 @@
 test git init
-<<<<<<< HEAD
-<<<<<<< HEAD
 modify for gitk_test
-=======
->>>>>>> 83d662b... test git init
-=======
->>>>>>> 83d662b... test git init
+83d662b... test git init
