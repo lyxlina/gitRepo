@@ -1,3 +1,4 @@
 test git init
 modify for gitk_test
 83d662b... test git init
+remote modify test_init git stash test
